@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    // Проверяем выбран ли элемент и окрашиваем его в соответствии с выбором
+    <item android:state_selected="true" android:color="@color/yellow_A100"/>
+    <item android:color="#0000ff" />
+</selector>

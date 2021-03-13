@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">DarkLight</string>
+    <string name="title_home">Дом</string>
+    <string name="title_region">Район</string>
+    <string name="title_city">Город</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="house_fragment_name">Домашний чат</string>
+    <string name="district_fragment_name">Районный чат</string>
+    <string name="city_fragment_name">Городской чат</string>
+    <string name="main_munu_light">Светлая тема</string>
+    <string name="main_menu_dark">Темная тема</string>
+</resources>

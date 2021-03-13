@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/light"
+        android:icon="@android:drawable/ic_delete"
+        android:title="@string/main_munu_light"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/dark"
+        android:icon="@android:drawable/ic_delete"
+        android:title="@string/main_menu_dark"
+        app:showAsAction="never"/>
+</menu>

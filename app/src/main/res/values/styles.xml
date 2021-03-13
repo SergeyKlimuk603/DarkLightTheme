@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="MyBottomNavigationDark" parent="Widget.MaterialComponents.BottomNavigationView">
+        <item name="itemRippleColor">@drawable/selector2</item>
+        <item name="backgroundTint">@color/yellow_700</item>
+        <item name="itemIconTint">@drawable/selector</item>
+        <item name="itemTextColor">@drawable/selector1</item>
+    </style>
+
+    <style name="WindowAnimationTransition">
+        <item name="android:windowEnterAnimation">
+            @android:anim/fade_in
+        </item>
+        <item name="android:windowExitAnimation">
+            @android:anim/fade_out
+        </item>
+    </style>
+</resources>
