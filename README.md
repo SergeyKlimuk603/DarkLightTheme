@@ -9,21 +9,21 @@
  I want to become an Android developer.
  
 ---
-#### __Skills__
+### __Skills__
 * Java
 * Android Studio
 * Git
 * Firebase
 
 ---
-#### Projects
+### Projects
 * __for Android:__  
 https://github.com/SergeyKlimuk603/MyTimer1f
 * __for PC__  
 https://github.com/SergeyKlimuk603/Matches
 
 ---
-#### Expirience  
+### Expirience  
 * __Electrician-adjuster__  
 JSC "Grodnozhilstroy"  
 aug. 2010 - sep. 2020 (10y. 6m.)  
@@ -32,7 +32,7 @@ company "Devices and systems"
 feb. 2007 - mar. 2010 (3y. 2m.)  
 
 ---
-#### Education  
+### Education  
 * __Belarusian National Technical University (BNTU)__  
 Automated electric drive  
 2001 - 2007  
