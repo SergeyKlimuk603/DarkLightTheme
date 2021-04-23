@@ -15,4 +15,4 @@ first header | second header
 -------------|
 line 1 | line 2
 line 3 | 
-line 5 | 
+line 5 | -------------
