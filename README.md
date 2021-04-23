@@ -26,7 +26,7 @@ aug. 2010 - sep. 2020 (10y. 6m.)
 * __Service engineer__  
 company "Devices and systems"  
 feb. 2007 - mar. 2010 (3y. 2m.)  
- 
+---
 #### Education  
 * __Belarusian National Technical University (BNTU)__  
 Automated electric drive  
