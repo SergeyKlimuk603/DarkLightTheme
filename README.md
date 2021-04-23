@@ -9,7 +9,7 @@ Grodno, Belarus.
 Born i 1979 (42 y.o.)  
 I want to become an Android developer.
 ---
-#### Skills
+#### __Skills__
 * Java
 * Android Studio
 * Git
