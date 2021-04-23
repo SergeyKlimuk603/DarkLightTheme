@@ -1,7 +1,7 @@
 # Sergey Klimuk
 ### Junior Android Developer
 * __Tel.:__ +375 (00) 000-00-00 
-* __Email:__ sergey_klimuk@ail.ru
+* __Email:__ sergey_klimuk@mail.ru
 * __GitHub:__ https://github.com/SergeyKlimuk603   
   
  Grodno, Belarus.  
