@@ -4,8 +4,7 @@
 * __Email:__ sergey_klimuk@mail.ru
 * __GitHub:__ https://github.com/SergeyKlimuk603   
   
- Grodno, Belarus.  
- Born in 1979 (42 y.o.)  
+ Grodno, Belarus.   
  I want to become an Android developer.
  
 ---
